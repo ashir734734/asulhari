@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning node js 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ? Discord : @Ashir#4090
+- [![Netlify Status](https://api.netlify.com/api/v1/badges/bd745f4c-6c90-4701-bcbf-9ce0071d58db/deploy-status)](https://app.netlify.com/sites/mashir/deploys)
